@@ -56,7 +56,7 @@ older son, who has the following details:
 | --- | --- | --- |
 | BRAYNT_JR | 18 | 0 |
 
-BRAYNT was a very active player and he had scored 1161 points. Find the player
+14) BRAYNT was a very active player and he had scored 1161 points. Find the player
 with 1161 points, using binary search, remove him, and shift each following
 element left, adding the newcomer at the end of the parallel arrays. Output the
 arrays in a readable manner.
